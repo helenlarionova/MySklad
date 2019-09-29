@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962400062219",
+    "firebase_url": "https://mysklad-ef3d8.firebaseio.com",
+    "project_id": "mysklad-ef3d8",
+    "storage_bucket": "mysklad-ef3d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962400062219:android:34315118e5552e7aab300e",
+        "android_client_info": {
+          "package_name": "com.example.android.mysklad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962400062219-vg76mgh974k3itvvik7stuom1sle1khk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.mysklad",
+            "certificate_hash": "e6f5fae04e9e0de29679935ab7091730c23cbc0b"
+          }
+        },
+        {
+          "client_id": "962400062219-t75mech1kv3skbrupfj3en9hgv4e7v2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXsB26GR0yFb3KzSFj45b-a3o9viZrxgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962400062219-t75mech1kv3skbrupfj3en9hgv4e7v2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MySklad</string>
+    <string name="all_products">Все товары</string>
+    <string name="product_title">Наименование товара</string>
+    <string name="product_price">Цена</string>
+    <string name="save">Сохранить</string>
+    <string name="field_cannot_be_empty">Поле не может быть пустым</string>
+    <string name="rub">руб.</string>
+    <string name="new_product">Новый товар</string>
+    <string name="not_product">У вас пока нет \nни одного товара</string>
+    <string name="redact_product">Редактирование товара</string>
+    <string name="delete">Удалить</string>
+</resources>
